@@ -471,3 +471,7 @@ message("Comment list count: ", nrow(comment_list))
 message("Detailed comment count: ", nrow(comment_details_full))
 message("Attachment row count: ", nrow(attachment_details_full))
 message("Failures: ", nrow(failures_full))
+
+# update my github personal access token
+
+
